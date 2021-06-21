@@ -233,7 +233,7 @@ main .blog-content .blog-title{
 main .blog-content .btn-blog{
     padding: .7rem 2rem;
     background: var(--sky);
-    margin: .5rem;
+    margin: 2rem;
 }
 
 main .blog-content span{
